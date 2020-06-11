@@ -1,3 +1,4 @@
+// Package gets read user input from stdin
 package gets
 
 import (
